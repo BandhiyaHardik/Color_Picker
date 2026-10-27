@@ -1,0 +1,7 @@
+customtkinter>=5.2,<6
+pymongo>=4.8,<5
+Pillow>=12,<13
+bcrypt>=4,<5
+mss>=9,<11
+pytest>=8,<10
+pyinstaller>=6,<7
